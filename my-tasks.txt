@@ -1,0 +1,6 @@
+Minhas tarefas diárias:
+
+- Estudar Git e Github
+- Praticar comandos no terminal
+- Assistir aulas gravadas
+
